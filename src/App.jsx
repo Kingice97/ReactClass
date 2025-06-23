@@ -14,18 +14,17 @@
 // export default App;
 
 import React from 'react'
-import Banner from './components/Banner'
 
 const App = () => {
   return (
     <>
       <div className=''>  
       <h1>Good Morning</h1>
+      <h1>Good Afternoon</h1>
     </div>
       <div>
       <h1>Good Afternoon</h1>
     </div>
-    <Banner/>
     </>
   )
 }
