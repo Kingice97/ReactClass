@@ -14,13 +14,11 @@
 // export default App;
 
 import React from 'react'
-import Navbar from './components/Navbar'
 import Banner from './components/Banner'
 
 const App = () => {
   return (
     <>
-    <Navbar/>
       <div className=''>  
       <h1>Good Morning</h1>
     </div>
